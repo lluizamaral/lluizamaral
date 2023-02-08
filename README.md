@@ -1,4 +1,8 @@
-### I’m currently learning back-end and front-end to collaborate with my ideas and help others with yours ideas.  🤝
+✨About me:
+### My name is Luiz and I'm looking to become a great python language professional.
+ -(that's why I'm currently learning back-end and front-end. To execute my ideas and collaborate with others' ideas.).  🤝
+
+desenvolvedor fullstack,
 
 </div>
 📫 zktscontact@gmail.com
